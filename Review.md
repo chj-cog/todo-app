@@ -1,6 +1,7 @@
-# 코드 리뷰: chj-cog/todo-app
-
-- 대상 저장소: https://github.com/chj-cog/todo-app (최신 커밋 `fc35d48`)
+# AIFFEL Campus Agent Code Review Templete
+- 개발자 : 김원규
+- 리뷰어 : 정채홍
+- 대상 저장소: https://github.com/chj-cog/todo-app
 - 배포 데모: https://kwkworks-todo.streamlit.app
 - 리뷰 일자: 2026-10-30
 - 리뷰 환경: Windows 11, Python 3.14.2, `requirements.txt` 그대로 설치한 venv (streamlit 1.66.1, python-dotenv 1.2.4)
